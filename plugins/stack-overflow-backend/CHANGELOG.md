@@ -1,5 +1,11 @@
 # @backstage/plugin-stack-overflow-backend
 
+## 0.1.3-next.0
+
+### Patch Changes
+
+- 52b4f796e3: app-config is now picked up properly.
+
 ## 0.1.2
 
 ### Patch Changes

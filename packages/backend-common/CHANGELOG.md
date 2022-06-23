@@ -1,5 +1,11 @@
 # @backstage/backend-common
 
+## 0.14.1-next.1
+
+### Patch Changes
+
+- 0fc57887e8: Improve plural handling in logging output for secrets
+
 ## 0.14.1-next.0
 
 ### Patch Changes

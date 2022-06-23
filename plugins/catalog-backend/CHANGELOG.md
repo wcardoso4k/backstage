@@ -1,5 +1,14 @@
 # @backstage/plugin-catalog-backend
 
+## 1.2.1-next.1
+
+### Patch Changes
+
+- f1dcc6f3c6: Use entity type predicates from catalog-model
+- Updated dependencies
+  - @backstage/catalog-model@1.1.0-next.1
+  - @backstage/backend-common@0.14.1-next.1
+
 ## 1.2.1-next.0
 
 ### Patch Changes

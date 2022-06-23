@@ -1,5 +1,12 @@
 # @backstage/cli
 
+## 0.17.3-next.1
+
+### Patch Changes
+
+- 86640214f0: Upgrade `@rollup/plugin-node-resolve` to `^13.0.6`
+- e661242844: Updated dependency `run-script-webpack-plugin` to `^0.1.0`.
+
 ## 0.17.3-next.0
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # example-backend
 
+## 0.2.73-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-auth-backend@0.15.0-next.1
+  - @backstage/catalog-model@1.1.0-next.1
+  - @backstage/backend-common@0.14.1-next.1
+  - @backstage/plugin-catalog-backend@1.2.1-next.1
+  - @backstage/plugin-techdocs-backend@1.1.3-next.1
+  - example-app@0.2.73-next.1
+
 ## 0.2.73-next.0
 
 ### Patch Changes

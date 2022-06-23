@@ -1,5 +1,13 @@
 # @backstage/core-components
 
+## 0.9.6-next.1
+
+### Patch Changes
+
+- 7e115d42f9: Support displaying subtitle text in `SidebarSubmenuItem`
+- Updated dependencies
+  - @backstage/theme@0.2.16-next.0
+
 ## 0.9.6-next.0
 
 ### Patch Changes

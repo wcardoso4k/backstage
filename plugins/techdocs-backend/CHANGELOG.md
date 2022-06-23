@@ -1,5 +1,14 @@
 # @backstage/plugin-techdocs-backend
 
+## 1.1.3-next.1
+
+### Patch Changes
+
+- 726577958f: Add sample headings on the documented component homepage.
+- Updated dependencies
+  - @backstage/catalog-model@1.1.0-next.1
+  - @backstage/backend-common@0.14.1-next.1
+
 ## 1.1.3-next.0
 
 ### Patch Changes
